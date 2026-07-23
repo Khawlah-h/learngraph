@@ -1,6 +1,6 @@
 # LearnGraph: Capstone Project
 
-**Course:** Building Agentic AI - SDAIA Academy  
+**Course:** Building AI Agents - SDAIA Academy  
 **Student:** Khawlah Alharbi
 
 LearnGraph is a multi-source educational AI agent that helps students learn AI-agent concepts and test their understanding using grounded content.
